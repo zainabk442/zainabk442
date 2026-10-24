@@ -1,7 +1,7 @@
 Warm Welcome, myself Zainab Khan
 
 ABOUT ME :
-☁️ Aspiring Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD
+Aspiring Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD
 
 I'm a B.Sc. Information Technology graduate passionate about cloud computing, automation, and building reliable infrastructure.
 I enjoy learning by doing — experimenting with cloud services, automating repetitive tasks, troubleshooting issues, and turning what I learn into practical projects.
