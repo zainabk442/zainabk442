@@ -1,20 +1,21 @@
 Warm Welcome, myself Zainab Khan
 
+ABOUT ME :
+☁️ Aspiring Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD
 
-👩‍💻 About Me
+I'm a B.Sc. Information Technology graduate passionate about cloud computing, automation, and building reliable infrastructure.
+I enjoy learning by doing — experimenting with cloud services, automating repetitive tasks, troubleshooting issues, and turning what I learn into practical projects.
+I'm currently growing my skills in AWS, Terraform, Docker, Linux, and CI/CD, with a long-term goal of becoming a Cloud Architect and designing secure, scalable, and reliable cloud solutions.
 
-I am a B.Sc. Information Technology graduate with a strong interest in Cloud Computing, DevOps, and Infrastructure Automation.
-I enjoy designing, deploying, and managing cloud infrastructure while continuously expanding my knowledge through hands-on projects and practical implementations.
-
-Currently, I am focused on strengthening my skills in:
-
+Currently, I am focused on strengthening my skills in :
 - ☁️ Amazon Web Services (AWS)
 - 🏗 Infrastructure as Code using Terraform
-- 🐳 Containerization with Docker
-- ☸️ Kubernetes Fundamentals
+- 🐳 Containerizing applications with Docker
+- ☸️ Exploring Kubernetes and container orchestration
 - ⚙️ CI/CD using Jenkins & GitHub Actions
 - 🐧 Linux Administration & Bash Scripting
 - 🐍 Python for Automation
+- 📚 Preparing for a career in Cloud and DevOps engineering
 
 My long-term goal is to become a Cloud Architect by building reliable, scalable, secure, and automated cloud solutions.
 
@@ -46,6 +47,8 @@ My long-term goal is to become a Cloud Architect by building reliable, scalable,
 - Elastic Load Balancer
 - RDS
 - ALB
+- ECS/ FARGATE
+- DYNAMODB
 
 🚀 DevOps : 
 - Docker
@@ -60,6 +63,8 @@ My long-term goal is to become a Cloud Architect by building reliable, scalable,
 - Bash Shell Scripting
 - YAML
 - Node.js(Basics)
+- React.js
+- flask
 
 💾 Databases :
 - MySQL
@@ -78,6 +83,16 @@ My long-term goal is to become a Cloud Architect by building reliable, scalable,
 
 📂 Featured Projects : 
 
+☕ Café Framji — End-to-End Cloud & DevOps Project : 
+Worked on a hands-on project focused on bringing application development and deployment together using Cloud and DevOps practices.
+- Containerization using Docker
+- CI/CD automation with GitHub Actions
+- AWS deployment and cloud infrastructure
+- Infrastructure as Code using Terraform
+- Exploring monitoring, troubleshooting, and deployment improvements
+ What I learned : How different DevOps tools work together throughout the application delivery process, from source code and container builds to deployment and infrastructure management.
+
+
 ☁️ AWS Infrastructure using Terraform :
 Designed and provisioned AWS cloud infrastructure using Terraform following Infrastructure as Code (IaC) principles.
 The project demonstrates automated infrastructure deployment, reusable configurations, and state management for scalable cloud environments.
@@ -85,6 +100,7 @@ The project demonstrates automated infrastructure deployment, reusable configura
 - Managed infrastructure through reusable HCL configurations
 - Implemented variables, outputs, modules, and remote state concepts
 - Automated infrastructure deployment while reducing manual configuration
+What I learned : How to provision and manage AWS infrastructure using Terraform instead of creating resources manually. I gained practical experience with reusable configurations, modules, variables, &  infrastructure state management.
 
 
 🐳 Dockerized Flask Application :
@@ -93,6 +109,7 @@ Developed and containerized a Python Flask web application using Docker and Dock
 - Managed multi-container applications using Docker Compose
 - Simplified application deployment across environments
 - Improved portability and consistency through containerization
+What I learned : How to package a Flask application into Docker containers and manage multiple services using Docker Compose. I understood how containerization improves application portability and consistency across different environments.
 
 
 ⚙️ Jenkins CI/CD Pipeline :
@@ -102,11 +119,16 @@ Designed and implemented an automated Continuous Integration and Continuous Depl
 - Configured Jenkins jobs, plugins, and pipelines
 - Utilized Shell scripting for deployment automation
 - Reduced manual deployment effort through CI/CD practices
+What I learned : How to automate application build and deployment workflows using Jenkins, GitHub, and shell scripting. I gained an understanding of how CI/CD pipelines reduce manual work and make software delivery more consistent.
 
 
 ☁️ CloudNotes API :
-- Designed a cloud-native note management application with Docker, CI/CD, and AWS deployment.
-
+Developing a note-management application with a focus on cloud deployment and DevOps practices.
+- Working with a Flask-based backend and database integration
+- Exploring Docker and containerized services
+- Planning CI/CD automation and AWS deployment
+- Exploring data deduplication to reduce unnecessary storage
+(project is not yet completed, in progress...)
 
 💾 AWS EBS Snapshot & Restore :
 Implemented an AWS storage backup and disaster recovery solution using Amazon Elastic Block Store (EBS) Snapshots to demonstrate secure backup, data recovery, and storage management practices.
@@ -115,21 +137,8 @@ Implemented an AWS storage backup and disaster recovery solution using Amazon El
 - Restored EC2 volumes from snapshots
 - Demonstrated disaster recovery workflow
 - Explored AWS storage best practices and backup strategies
+What I learned : How EBS snapshots help protect data and support recovery by allowing volumes to be restored when needed. I gained practical experience with AWS storage management, backup procedures, and basic disaster recovery workflows.
 
---------------------------------------
-📈 GitHub Statistics :
-(Add GitHub Stats Card Here)
-
-🔥 GitHub Streak :
-(Add Streak Card Here)
-
---------------------------------------
-📊 Contribution Graph :
-(Add Activity Graph Here)
-
---------------------------------------
-🏆 GitHub Achievements :
-(Add GitHub Trophy Card Here)
 
 --------------------------------------
 📫 Connect With Me :
@@ -138,6 +147,4 @@ Implemented an AWS storage backup and disaster recovery solution using Amazon El
 - 🌐 GitHub : https://github.com/zainabk442
 
 --------------------------------------
-💡 Quote :
-
-> "Automation isn't just about reducing effort—it's about building reliable systems that scale."
+💡 Quote :  "Every project, every error, and every fix is another step toward becoming a better engineer."
